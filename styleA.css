@@ -18,7 +18,7 @@
 
 }
 .logo{
-    background-image:url("amazon_logo.png");
+    background-image:url("pics/amazon_logo.png");
     height:50px;
     width:100%;
     background-size:cover;
@@ -135,7 +135,7 @@
 }
 
 .hero-section{
-    background-image:url("panel1.jpg");
+    background-image:url("pics/panel1.jpg");
     background-size:cover;
     height:350px;
     width:100vw;
